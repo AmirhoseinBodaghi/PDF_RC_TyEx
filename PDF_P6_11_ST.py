@@ -475,8 +475,8 @@ def process_pdf(pdf_path):
         st.write("### 🖼️ Region Classification Color Guide")
         st.markdown("""
         - 🟩 **Green** → Handwritten Text  
-        - 🟥 **Blue** → Typed Text  
-        - 🟦 **Red** → Noise (irrelevant or unclassified content)  
+        - 🟥 **Red** → Noise (irrelevant or unclassified content)
+        - 🟦 **Blue** → Typed Text    
         - 🟨 **Yellow** → Signatures  
         """)
         
