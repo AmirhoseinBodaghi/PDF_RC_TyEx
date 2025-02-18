@@ -1,0 +1,14 @@
+opencv-python
+numpy
+pymupdf
+pytesseract
+joblib
+pandas
+PyWavelets
+scikit-image
+streamlit
+Pillow
+symspellpy
+scikit-learn  # Required for RandomForestClassifier and SelectKBest
+imbalanced-learn  # Required for SMOTE
+pywavelets
